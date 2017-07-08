@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\flipperinterface.o
+./release\qcustomplot.o
+./release\graph.o
+./release\mysqlinterface.o
+./release\notification.o
+./release\onlinedatabaseinterface.o
+./release\moc_mainwindow.o
+./release\moc_flipperinterface.o
+./release\moc_qcustomplot.o
+);
